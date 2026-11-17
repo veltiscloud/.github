@@ -58,6 +58,8 @@
 * **Official Platform:** [veltis.cloud](https://veltis.cloud)
 * **Client Portal:** [Manage Services & Billing](https://veltis.cloud/clientarea)
 * **Knowledgebase:** [Guides & Documentation](https://veltis.cloud/knowledgebase)
+* **Socials:** [Socials Page](https://veltis.cloud/socials)
+* **Status:** [Status / Uptime](https://veltis.cloud/status)
 
 ---
 
